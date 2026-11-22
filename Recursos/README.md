@@ -709,4 +709,4 @@ Cuantificar desde las lecturas crudas, incluir series temporales de regeneració
 8. Cock, P. J. A., et al. (2009). Biopython: freely available Python tools for computational molecular biology and bioinformatics. *Bioinformatics*, 25, 1422-1423.
 9. The UniProt Consortium (2023). UniProt: the Universal Protein Knowledgebase in 2023. *Nucleic Acids Research*, 51, D523-D531.
 
-> **Nota:** verifica los datos bibliográficos completos de cada referencia (autores, volumen, páginas y DOI) antes de publicar. Solo la referencia 1 se contrastó con el propio artículo.
+
