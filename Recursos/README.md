@@ -1,5 +1,4 @@
-# Flujo bioinformático paso a paso del Cuaderno de Colab
-
+# Flujo bioinformático del Proyecto:
 **Regeneración de extremidades en el ajolote (*Ambystoma mexicanum*):**
 
 [![Open In Colab](https://github.com/JManuelRG/TranscriptomaAxolotl/blob/main/Recursos/Flujo%20Bioinform%C3%A1tico%20Ajolote.ipynb)
