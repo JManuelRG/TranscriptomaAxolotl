@@ -320,4 +320,5 @@ Proteínas de referencia utilizadas: KAZALD1 humano Q96I82 y ratón Q8BJ66; CIRB
 
 Licencia del código: [elige una, por ejemplo MIT]. Los datos originales pertenecen a sus autores y se rigen por los términos de uso de los portales indicados.
 
-Si utilizas este material, cita el artículo de Bryant et al. (2017) y este repositorio: *[Autor(es)] (2026). Análisis bioinformático de la regeneración de extremidades en el ajolote. GitHub: https://github.com/TU_USUARIO/TU_REPOSITORIO*
+Si utilizas este material, cita el artículo de Bryant et al. (2017) y este repositorio: 
+GitHub: [https://github.com/TU_USUARIO/TU_REPOSITORIO*](https://github.com/JManuelRG/TranscriptomaAxolotl/)]
