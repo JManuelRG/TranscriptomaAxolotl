@@ -13,7 +13,7 @@ El objetivo es que cualquier persona que lea la guía pueda entender el análisi
 
 ## Contenido
 
-1. [La idea completa ](#1-la-idea-completa-en-un-minuto)
+1. [Idea Principal del Proyecto ](#1-De qué trata el proyecto)
 2. [Cómo leer esta guía](#2-cómo-leer-esta-guía)
 3. [Paso 0. Preparar el entorno](#paso-0-preparar-el-entorno)
 4. [Paso 1. Obtener los datos](#paso-1-obtener-los-datos)
@@ -38,7 +38,7 @@ El objetivo es que cualquier persona que lea la guía pueda entender el análisi
 
 ---
 
-## 1. La idea completa en un minuto
+## 1. Resumen General del proyecto
 
 El ajolote puede regenerar una pata completa si la pierde. Justo después de la amputación se forma un **blastema**, un grupo de células jóvenes que reconstruye el miembro. La pregunta es: **¿qué genes están más activos en ese blastema que en una extremidad normal?**
 
