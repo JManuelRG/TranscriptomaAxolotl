@@ -2,9 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/NOMBRE_DEL_CUADERNO.ipynb)
 
-> Proyecto de licenciatura en bioinformática, ejecutado íntegramente en Google Colab a partir de datos públicos, sin necesidad de equipo de cómputo especializado. Presentado como **póster** en [NOMBRE DEL CONGRESO].
->
-> **Estado:** resultados preliminares, análisis *in silico*. Genera hipótesis; no las valida experimentalmente.
+> Presentado como **póster** en el Encuentro de Ciencia y Tecnología UPIIG-IPN, Noviembre 2026..
+
 
 | | |
 |---|---|
