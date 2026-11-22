@@ -1,7 +1,5 @@
 # Análisis bioinformático de genes asociados a la regeneración de extremidades en el ajolote (Ambystoma mexicanum): expresión diferencial y conservación evolutiva
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/NOMBRE_DEL_CUADERNO.ipynb)
-
 > Presentado como **póster** en el Encuentro de Ciencia y Tecnología UPIIG-IPN, Noviembre 2026..
 
 
